@@ -1,2 +1,2 @@
 # dbt-NBARookies
-Data visualization portion of the data engineering project NBARookies
+Data transformation for visualizing NBARookie Data
