@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+    - name: staging
+      database: sunlit-amulet-366602
+      schema: nba_rookie_data
+
+      tables:
+        - name: player_per_game_totals
+        - name: rookie_season_totals
