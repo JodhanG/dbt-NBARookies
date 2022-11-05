@@ -1,2 +1,2 @@
 # dbt-NBARookies
-Data transformation for visualizing NBARookie Data
+Data transformations for visualizing NBARookie Data
